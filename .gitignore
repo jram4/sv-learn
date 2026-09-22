@@ -1,0 +1,9 @@
+*.vcd
+*.fst
+*.lxt*
+*.vvp
+*.out
+*.o
+obj_dir/
+*.swp
+.DS_Store
